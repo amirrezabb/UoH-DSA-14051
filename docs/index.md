@@ -1,17 +1,6 @@
-# Welcome to MkDocs
+# به درس «داده‌ساختار‌ها و الگوریتم‌ها» خوش آمدید.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+| جلسه | عنوان | تاریخ | ویدئو | اسلایدها | تمرین‌های پیش از کلاس
+|---:|---|---|---|---|
+| ۱ | معرفی درس | ۳ اسفند | - | [Introduction](https://github.com/da-sut-14042/site/releases/download/media-2026-08-23/slides-session-01-02-introduction.pdf){ target="_blank" rel="noopener noreferrer" } |
+| ۲ | ادامه‌ی معرفی | ۵ اسفند | - | [Introduction](https://github.com/da-sut-14042/site/releases/download/media-2026-08-23/slides-session-01-02-introduction.pdf){ target="_blank" rel="noopener noreferrer" } |
