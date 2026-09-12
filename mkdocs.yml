@@ -1,7 +1,53 @@
 site_name: داده‌ساختارها و الگوریتم‌ها
-site_url: https://sitename.example
+site_description: صفحه درس داده‌ساختارها و الگوریتم‌ها
+site_url: https://example.com/
+
+
 docs_dir: docs
-use_directory_urls: true
+
 
 theme:
   name: material
+  language: fa
+  direction: rtl
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/brightness-7
+        name: حالت روشن
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: حالت تاریک
+
+
+nav:
+  - خانه: index.md
+  - تمرینات: exercises.md
+
+
+plugins:
+  - search:
+      lang:
+        - fa
+
+
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
